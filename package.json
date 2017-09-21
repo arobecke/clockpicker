@@ -2,7 +2,7 @@
   "name": "clockpicker",
   "description": "A clock-style timepicker for Bootstrap (or jQuery)",
   "version": "0.0.9",
-  "main": "dist/jquery-clockpicker.js",
+  "main": "dist/bootstrap-clockpicker.js",
   "author": {
     "name": "Wang Shenwei",
     "email": "wangshenwei@qq.com",
